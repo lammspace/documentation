@@ -1,7 +1,7 @@
 Code of Conduct
 ===============
 
-This code of conduct is based on the one from Gothenburg Hackerspace (GHS).  The original can be found at [http://gbg.hackerspace.se/ghs/jargon][http://gbg.hackerspace.se/ghs/jargon]
+This code of conduct is based on the one from Gothenburg Hackerspace (GHS).  The original can be found at [http://gbg.hackerspace.se/ghs/jargon](http://gbg.hackerspace.se/ghs/jargon)
 
 Gothenburg Hackerspace (GHS) is an inclusive society where everyone is welcome regardless of age, ethnicity, gender, sexuality or religion - to discuss and learn more about technology in an environment of mutual respect, tolerance and encouragement. We want all participants to have an enjoyable and fulfilling experience. Therefore, all participants are expected to be nice and respectful towards each other.
 
@@ -17,7 +17,7 @@ We strive to provide a fun, educational and friendly atmosphere in the club.
 
 * Participants who are encouraged to stop their inappropriate behavior or their harassment are expected to do so immediately.
 
-* If you observe a participant displaying improper behavior, you should contact Gothenburg Hackerspace immediately. The contact persons may be found [here][http://gbg.hackerspace.se/ghs/keymasters]. All complaints to Gothenburg Hackerspace will remain confidential, be taken seriously, investigated and dealt with appropriately.
+* If you observe a participant displaying improper behavior, you should contact Gothenburg Hackerspace immediately. The contact persons may be found [here](http://gbg.hackerspace.se/ghs/keymasters). All complaints to Gothenburg Hackerspace will remain confidential, be taken seriously, investigated and dealt with appropriately.
 
 * Gothenburg Hackerspace is aware of its responsibilities in ensuring its continuation as a successful and productive hackerspace. If an incident were to occur, Gothenburg Hackerspace will give a formal apology to the offended party and future actions will be taken to make sure this does not reoccur.
 
