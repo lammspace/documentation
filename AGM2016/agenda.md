@@ -8,11 +8,11 @@
 
 * Special resolution - acceptance of the proposed articles of association
 * Election of board members
-..* Tom Bloor
-..* Claire Jackson
-..* Mark Keating
-..* Kay Kempers
-..* Ian Norton
+.* Tom Bloor
+.* Claire Jackson
+.* Mark Keating
+.* Kay Kempers
+.* Ian Norton
 
 * Space 2
 
