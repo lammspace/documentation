@@ -111,8 +111,8 @@ At the time of the AGM, LAMM had 16 members.
 Proposer Mark
 Seconder Tom
 
-0 against
-10 for
+1 abstension
+9 for
 
 # Election of board - IanN
 
